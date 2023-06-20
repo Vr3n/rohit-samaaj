@@ -20,7 +20,7 @@ const Home: NextPage = () => {
             Census survey for samaaj members.
           </p>
           <FormContainer>
-            <Card className="my-2 rounded-md p-4">
+            <Card className="my-2 rounded-full bg-gradient-to-b from-yellow-50 p-4">
               <FormStepper />
             </Card>
             <SurveyForm />
