@@ -29,7 +29,7 @@ const AadharValidation = z
     message: "maximum 10 digits allowed.",
   });
 
-export const surveyFormSchema = z.object({
+export const personalDetailsFormSchema = z.object({
   nationality: NationalityEnum,
   aadharNumber: AadharValidation,
   firstName: z
@@ -40,4 +40,21 @@ export const surveyFormSchema = z.object({
     .min(1, { message: "Last Name is required." }),
   fatherName: z.string(),
   motherName: z.string(),
+});
+
+const mobileNumberFields = z.object({
+  mobile_number: z
+    .string({ required_error: "Mobile number is required" })
+    .regex(new RegExp(/^[0-9]{10}$/), {
+      message: "Mobile number should be exactly 10 digits.",
+    })
+    .max(10, {
+      message: "Maximum 10 digits allowed.",
+    }),
+  is_whatsapp: z.boolean(),
+});
+
+export const contactDetailsFormSchema = z.object({
+  mobile: mobileNumberFields,
+  email: z.string().email().optional(),
 });

@@ -21,16 +21,18 @@ import { Button } from "../ui/button";
 import { cn } from "~/lib/utils";
 import { Loader } from "lucide-react";
 import { useToast } from "../ui/use-toast";
-import { surveyFormSchema } from "~/schemas/surveyFormSchema";
+import { personalDetailsFormSchema } from "~/schemas/surveyFormSchema";
+import { useRouter } from "next/navigation";
 
 const PersonalDetailsForm = () => {
   const watchAadharNumberRef = useRef<string>("");
   const { toast } = useToast();
+  const router = useRouter();
 
   const [isFormSubmitting, setIsFormSubmitting] = useState<boolean>(false);
 
-  const form = useForm<z.infer<typeof surveyFormSchema>>({
-    resolver: zodResolver(surveyFormSchema),
+  const form = useForm<z.infer<typeof personalDetailsFormSchema>>({
+    resolver: zodResolver(personalDetailsFormSchema),
     mode: "onChange",
     defaultValues: {
       nationality: "indian",
@@ -44,7 +46,7 @@ const PersonalDetailsForm = () => {
 
   const { isDirty, isValid } = form.formState;
 
-  function onSubmit(values: z.infer<typeof surveyFormSchema>) {
+  function onSubmit(values: z.infer<typeof personalDetailsFormSchema>) {
     setIsFormSubmitting(true);
     setTimeout(() => {
       toast({
@@ -58,6 +60,7 @@ const PersonalDetailsForm = () => {
         ),
       });
       setIsFormSubmitting(false);
+      router.push("/samaaj-member/survey/contact-details");
     }, 3000);
   }
 
