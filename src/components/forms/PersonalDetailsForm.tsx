@@ -23,7 +23,7 @@ import { Loader } from "lucide-react";
 import { useToast } from "../ui/use-toast";
 import { surveyFormSchema } from "~/schemas/surveyFormSchema";
 
-const SurveyForm = () => {
+const PersonalDetailsForm = () => {
   const watchAadharNumberRef = useRef<string>("");
   const { toast } = useToast();
 
@@ -247,10 +247,10 @@ const SurveyForm = () => {
               type="submit"
             >
               {" "}
-              {!!isFormSubmitting && (
-                <Loader className="mr-4 animate-spin" />
-              )}{" "}
               Submit
+              {!!isFormSubmitting && (
+                <Loader className="ml-5 animate-spin" />
+              )}{" "}
             </Button>
           </CardFooter>
         </Card>
@@ -259,4 +259,4 @@ const SurveyForm = () => {
   );
 };
 
-export default SurveyForm;
+export default PersonalDetailsForm;
