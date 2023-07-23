@@ -42,3 +42,4 @@ yarn-error.log*
 *.tsbuildinfo
 
 .venv/
+___pycache__/
