@@ -3,10 +3,10 @@ indent_style = space
 indent_size = 2
 
 
-[src/**/*.{ts, tsx, js, jsx. mjs, json, cjs}]
+[**/*.{ts, tsx, js, jsx. mjs, json, cjs}]
 indent_style = space
 indent_size = 2
 
-[src/*.{ts, tsx, js, jsx. mjs, json, cjs}]
+[**/**/*.{ts, tsx, js, jsx. mjs, json, cjs}]
 indent_style = space
 indent_size = 2

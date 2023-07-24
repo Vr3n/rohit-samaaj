@@ -2,6 +2,46 @@
 <!-- -->
 {% block content %}
 <main class="max-w-screen-xl mx-auto px-4">
-    <h1 class="text-2xl font-bold text-primary-600">Hello, Friend!</h1>
+    <section
+      class="overflow-hidden justify-between  sm:justify-between sm:grid sm:grid-cols-2">
+      <div class="p-8 md:p-12 lg:px-16 lg:py-24">
+        <div
+          class="mx-auto max-w-xl text-center ltr:sm:text-left rtl:sm:text-right"
+        >
+          <span id="hero-text">
+            <h3 class="text-xl font-bold text-left text-gray-900 md:text-3xl">
+              The Official Home of
+            </h3>
+            <h2 class="text-3xl font-bold text-left text-gray-900 md:text-6xl">
+              Rohit Samaaj, Mumbai
+            </h2>
+          </span>
+
+          <p id="hero-description" class="hidden text-gray-500 text-left md:mt-4 md:block">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas
+            tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim et
+            fermentum, augue. Aliquet amet volutpat quisque ut interdum tincidunt
+            duis.
+          </p>
+
+          <div class="mt-4 md:mt-8 flex">
+            <a
+              href="#"
+              id="hero-cta"
+              class="inline-block rounded bg-primary-500 px-12 py-3 text-xs md:text-sm font-medium text-white transition shadow-sm hover:shadow-md hover:bg-primary-700 focus:outline-none focus:ring focus:ring-yellow-400"
+            >
+                Know more about us
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <img
+        alt="samaaj-group-photo"
+        src="{{ url_for('static', path='img/home-bg.jpg') }}"
+        id="hero-photo"
+        class="h-full w-full object-cover sm:h-[calc(100%_-_2rem)] sm:self-end sm:rounded-ss-[30px] md:h-[calc(100%_-_4rem)] md:rounded-ss-[60px]"
+      />
+    </section>
 </main>
 {% endblock content %}
