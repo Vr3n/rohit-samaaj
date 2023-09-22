@@ -1,9 +1,19 @@
+{% load static %}
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>
+      Rohit Samaaj - {% block title %} {% endblock title %}
+    </title>
+    {% include 'includes/css.html' %}
   </head>
-  <body></body>
+  <body>
+
+    {% block content %}
+    {% endblock content %}
+  
+    {% include 'includes/scripts.html' %}
+  </body>
 </html>
