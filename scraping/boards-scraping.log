@@ -223,3 +223,80 @@ central board of secondary education
 board of intermediate education, andhra pradesh 
  department of education, puducherry - puducherry
 INFO 2023-07-12 19:21:33 (4346) 	 /tmp/ipykernel_4638/1653663754.py F<module> L3 - Data saved to json file succesfully!
+INFO 2023-10-22 17:51:57 (2880) 	 /tmp/ipykernel_54658/2564422528.py F<module> L3 - Scraped Board info successfully.
+INFO 2023-10-22 17:51:59 (5336) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added board of intermediate education  (andhra pradesh)
+board of secondary education (andhra pradesh) 
+a.p. open school society govt. of andhra pradesh - andhra pradesh
+INFO 2023-10-22 17:51:59 (5338) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added central board of secondary education - arunachal pradesh
+INFO 2023-10-22 17:51:59 (5338) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added assam higher secondary education council
+board of secondary education, assam
+assam sanskrit board
+state madrassa education board, assam - assam
+INFO 2023-10-22 17:51:59 (5339) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added bihar school examination board
+bihar board of open schooling & examination
+bihar state madrasa education board
+bihar sanskrit shiksha board - bihar
+INFO 2023-10-22 17:51:59 (5339) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added chhatisgarh board of secondary education
+chhatisgarh state open school
+chhattisgarh sanskrit board, raipur
+chhattisgarh madrasa board - chhattisgarh
+INFO 2023-10-22 17:51:59 (5340) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added central board of secondary education - delhi (nct)
+INFO 2023-10-22 17:51:59 (5340) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added goa board of secondary and higher secondary  education - goa
+INFO 2023-10-22 17:51:59 (5340) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added gujarat secondary and higher secondary education  board - gujarat
+INFO 2023-10-22 17:51:59 (5340) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added haryana board of school education - haryana
+INFO 2023-10-22 17:51:59 (5340) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added himachal pradesh board of school education - himachal pradesh
+INFO 2023-10-22 17:51:59 (5340) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added jammu and kashmir state board of school education - jammu and kashmir
+INFO 2023-10-22 17:51:59 (5341) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added jharkhand academic council,ranchi - jharkhand
+INFO 2023-10-22 17:51:59 (5341) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added govt. of karnataka dept. of pre-university  education
+karnataka secondary education, examination board - karnataka
+INFO 2023-10-22 17:51:59 (5341) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added kerala board of public examination
+kerala board of higher secondary education - kerala
+INFO 2023-10-22 17:51:59 (5341) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added board of secondary education,  madhya pradesh
+m. p. state open school education board
+maharishi patanjali sanskrit sansthan - madhya pradesh
+INFO 2023-10-22 17:51:59 (5341) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added maharashtra state board of secondary and higher  secondary education - maharashtra
+INFO 2023-10-22 17:51:59 (5342) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added board of secondary education, manipur
+council of higher secondary education, manipur - manipur
+INFO 2023-10-22 17:51:59 (5342) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added meghalaya board of school education - meghalaya
+INFO 2023-10-22 17:51:59 (5342) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added mizoram board of school education - mizoram
+INFO 2023-10-22 17:51:59 (5342) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added nagaland board of school education - nagaland
+INFO 2023-10-22 17:51:59 (5342) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added council of higher secondary education, odisha
+board of secondary education, odisha - odisha
+INFO 2023-10-22 17:51:59 (5343) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added punjab school education board - punjab
+INFO 2023-10-22 17:51:59 (5343) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added board of secondary education rajasthan
+rajasthan state open school, jaipur - rajasthan
+INFO 2023-10-22 17:51:59 (5343) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added central board of secondary education - sikkim
+INFO 2023-10-22 17:51:59 (5343) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added state board of school examinations(sec.) & board  of higher secondary examinations, tamil nadu - tamil nadu
+INFO 2023-10-22 17:51:59 (5343) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added telangana state board of intermediate education,  nampally hyderabad-500001
+telangana state board of secondary education,  chapel road, nampally, hyderabad-500001
+telangana open school society - telangana
+INFO 2023-10-22 17:51:59 (5344) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added tripura board of secondary education - tripura
+INFO 2023-10-22 17:51:59 (5344) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added board of school education uttarakhand - uttarakhand
+INFO 2023-10-22 17:51:59 (5344) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added u.p. board of high school & intermediate  education
+u.p. board of sec. sanskrit education council
+board of secondary education kant shahjahanpur u.p. - uttar pradesh
+INFO 2023-10-22 17:51:59 (5344) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added west bengal board of secondary education
+west bengal council of higher secondary  education
+west bengal board of primary education
+west bengal board of madrasah education
+the west bengal council of rabindra open  schooling - west bengal
+INFO 2023-10-22 17:51:59 (5345) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added central board of secondary education - a & n islands
+INFO 2023-10-22 17:51:59 (5345) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added central board of secondary education - chandigarh
+INFO 2023-10-22 17:51:59 (5345) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added gujarat secondary & higher secondary examination board , vadodra,
+higher secondary certificate examination board, ghadinagar - dadra & nagar haveli
+INFO 2023-10-22 17:51:59 (5345) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added gujarat secondary education board (gseb) vadodara, gujarat.
+ gujarat secondary and higher secondary education board (gsheb), gandhinagar, gujarat. - daman & diu
+INFO 2023-10-22 17:51:59 (5346) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added secondary school leaving certificate examination board kerala
+ board of higher secondary examination kerala - lakshadweep
+INFO 2023-10-22 17:51:59 (5346) 	 /tmp/ipykernel_54658/2864121130.py F<module> L4 - succesfully added board of secondary education, 
+tamilnadu board of public examination, 
+ kerala board of secondary education, 
+ andhra pradesh board of matriculation examination, 
+ central board of secondary education 
+                  board of hr.sec.education, tamilnadu,
+board of hr. sec. examinations, kerala
+                  
+central board of secondary education                  
+board of intermediate education, andhra pradesh 
+ department of education, puducherry - puducherry
+INFO 2023-10-22 17:52:05 (10937) 	 /tmp/ipykernel_54658/2749970267.py F<module> L3 - Data saved to json file succesfully!

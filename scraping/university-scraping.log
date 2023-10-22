@@ -1210,3 +1210,609 @@ INFO 2023-07-12 19:07:37 (11173) 	 /tmp/ipykernel_27996/2625529436.py F<module> 
 INFO 2023-07-12 19:07:37 (11212) 	 /tmp/ipykernel_27996/86316296.py F<module> L1 - Successfully scraped all university data.
 INFO 2023-07-12 19:11:56 (270038) 	 /tmp/ipykernel_27996/3739118035.py F<module> L3 - Data saved to json file succesfully!
 INFO 2023-07-12 19:13:59 (393866) 	 /tmp/ipykernel_27996/3795377624.py F<module> L3 - Data saved to json file succesfully!
+INFO 2023-10-22 17:52:18 (3054) 	 /tmp/ipykernel_54824/4292130246.py F<module> L3 - Scraped Central Universities successfully.
+INFO 2023-10-22 17:52:41 (25888) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Rajiv Gandhi University successfuly
+INFO 2023-10-22 17:52:41 (25889) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Assam University successfuly
+INFO 2023-10-22 17:52:41 (25889) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Tezpur University successfuly
+INFO 2023-10-22 17:52:41 (25889) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of South Bihar successfuly
+INFO 2023-10-22 17:52:41 (25890) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Mahatma Gandhi Central University North Bihar successfuly
+INFO 2023-10-22 17:52:41 (25890) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Nalanda University successfuly
+INFO 2023-10-22 17:52:41 (25890) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Guru Ghasidas University successfuly
+INFO 2023-10-22 17:52:41 (25891) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Indira Gandhi National Open University successfuly
+INFO 2023-10-22 17:52:41 (25891) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Jamia Millia Islamia successfuly
+INFO 2023-10-22 17:52:41 (25891) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Jawaharlal Nehru University successfuly
+INFO 2023-10-22 17:52:41 (25891) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added University of Delhi successfuly
+INFO 2023-10-22 17:52:41 (25892) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Gujarat successfuly
+INFO 2023-10-22 17:52:41 (25892) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Haryana successfuly
+INFO 2023-10-22 17:52:41 (25892) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Himachal Pradesh successfuly
+INFO 2023-10-22 17:52:41 (25892) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Jammu successfuly
+INFO 2023-10-22 17:52:41 (25892) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Kashmir successfuly
+INFO 2023-10-22 17:52:41 (25892) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Jharkhand successfuly
+INFO 2023-10-22 17:52:41 (25893) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Karnataka successfuly
+INFO 2023-10-22 17:52:41 (25893) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Kerala successfuly
+INFO 2023-10-22 17:52:41 (25893) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Dr. Hari Singh Gour University successfuly
+INFO 2023-10-22 17:52:41 (25893) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Indira Gandhi National Tribal University successfuly
+INFO 2023-10-22 17:52:41 (25893) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:41 (25894) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central Agricultural University successfuly
+INFO 2023-10-22 17:52:41 (25894) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Manipur University successfuly
+INFO 2023-10-22 17:52:41 (25894) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added North Eastern Hill University successfuly
+INFO 2023-10-22 17:52:41 (25894) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Mizoram University successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Nagaland University successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Orissa successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Pondicherry University successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Punjab successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Rajasthan successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Sikkim University successfuly
+INFO 2023-10-22 17:52:41 (25895) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Central University of Tamil Nadu successfuly
+INFO 2023-10-22 17:52:41 (25896) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Indian Maritime University successfuly
+INFO 2023-10-22 17:52:41 (25896) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added English and Foreign Languages University successfuly
+INFO 2023-10-22 17:52:41 (25896) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Maulana Azad National Urdu University successfuly
+INFO 2023-10-22 17:52:41 (25896) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added University of Hyderabad successfuly
+INFO 2023-10-22 17:52:41 (25896) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Tripura University successfuly
+INFO 2023-10-22 17:52:41 (25897) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Aligarh Muslim University successfuly
+INFO 2023-10-22 17:52:41 (25897) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Allahabad University successfuly
+INFO 2023-10-22 17:52:41 (25897) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Babasaheb Bhimrao Ambedkar University successfuly
+INFO 2023-10-22 17:52:41 (25897) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Banaras Hindu University successfuly
+INFO 2023-10-22 17:52:41 (25897) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Rani Lakshmi Bai Central Agricultural University successfuly
+INFO 2023-10-22 17:52:41 (25898) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Rajiv Gandhi National Aviation University successfuly
+INFO 2023-10-22 17:52:41 (25898) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Hemwati Nandan Bahuguna Garhwal University successfuly
+INFO 2023-10-22 17:52:41 (25898) 	 /tmp/ipykernel_54824/55919344.py F<module> L11 - Added Visva-Bharati University successfuly
+INFO 2023-10-22 17:52:43 (27995) 	 /tmp/ipykernel_54824/1230989764.py F<module> L3 - Scraped State Universities successfully.
+INFO 2023-10-22 17:52:45 (30009) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added A.P. University of    Law successfuly
+INFO 2023-10-22 17:52:45 (30009) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Acharya N. G. Ranga    Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30010) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Acharya Nagarjuna    University successfuly
+INFO 2023-10-22 17:52:45 (30011) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Adikavi Nannaya    University successfuly
+INFO 2023-10-22 17:52:45 (30011) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Andhra Pradesh Open    University successfuly
+INFO 2023-10-22 17:52:45 (30011) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Andhra University successfuly
+INFO 2023-10-22 17:52:45 (30012) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. B.R. Ambedkar    University, Srikakulam successfuly
+INFO 2023-10-22 17:52:45 (30012) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Nandamuri Taraka    Rama Rao University of Health Sciences, Andhra Pradesh successfuly
+INFO 2023-10-22 17:52:45 (30013) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dravidian University successfuly
+INFO 2023-10-22 17:52:45 (30013) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jawaharlal    Nehru Architecture and Fine Arts University successfuly
+INFO 2023-10-22 17:52:45 (30013) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jawaharlal    Nehru Technological University, Anantapur successfuly
+INFO 2023-10-22 17:52:45 (30013) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jawaharlal    Nehru Technological University, Hyderabad successfuly
+INFO 2023-10-22 17:52:45 (30013) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jawaharlal    Nehru Technological University, Kakinada successfuly
+INFO 2023-10-22 17:52:45 (30013) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kakatiya University successfuly
+INFO 2023-10-22 17:52:45 (30014) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Krishna University successfuly
+INFO 2023-10-22 17:52:45 (30014) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mahatma Gandhi    University, Nalgonda successfuly
+INFO 2023-10-22 17:52:45 (30014) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National Academy of    Legal Studies and Research successfuly
+INFO 2023-10-22 17:52:45 (30015) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Osmania University successfuly
+INFO 2023-10-22 17:52:45 (30015) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Palamuru University successfuly
+INFO 2023-10-22 17:52:45 (30015) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Potti Sreeramulu    Telugu University successfuly
+INFO 2023-10-22 17:52:45 (30015) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajiv Gandhi    University of Knowledge Technologies successfuly
+INFO 2023-10-22 17:52:45 (30015) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rayalaseema    University successfuly
+INFO 2023-10-22 17:52:45 (30015) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Satavahana University successfuly
+INFO 2023-10-22 17:52:45 (30016) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sri Krishnadevaraya    University successfuly
+INFO 2023-10-22 17:52:45 (30016) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sri Padmavati Mahila    Visvavidyalayam successfuly
+INFO 2023-10-22 17:52:45 (30017) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sri Venkateswara    Institute of Medical Sciences successfuly
+INFO 2023-10-22 17:52:45 (30017) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sri Venkateswara    University successfuly
+INFO 2023-10-22 17:52:45 (30018) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sri    Venkateswara Vedic University successfuly
+INFO 2023-10-22 17:52:45 (30018) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sri    Venkateswara Veterinary University successfuly
+INFO 2023-10-22 17:52:45 (30018) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Telangana University successfuly
+INFO 2023-10-22 17:52:45 (30018) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Vikrama Simhapuri    University successfuly
+INFO 2023-10-22 17:52:45 (30019) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Yogi Vemana    University successfuly
+INFO 2023-10-22 17:52:45 (30019) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Assam Agricultural    University successfuly
+INFO 2023-10-22 17:52:45 (30019) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dibrugarh University successfuly
+INFO 2023-10-22 17:52:45 (30019) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gauhati University successfuly
+INFO 2023-10-22 17:52:45 (30019) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Krishna Kanta    Handique State Open University successfuly
+INFO 2023-10-22 17:52:45 (30019) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Aryabhatta    Knowledge University successfuly
+INFO 2023-10-22 17:52:45 (30020) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added B. R. Ambedkar Bihar    University successfuly
+INFO 2023-10-22 17:52:45 (30020) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bhupendra Narayan    Mandal University successfuly
+INFO 2023-10-22 17:52:45 (30020) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chanakya National Law    University successfuly
+INFO 2023-10-22 17:52:45 (30020) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jai Prakash    University successfuly
+INFO 2023-10-22 17:52:45 (30021) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kameshwar Singh    Darbhanga Sanskrit University successfuly
+INFO 2023-10-22 17:52:45 (30021) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Lalit Narayan Mithila    University successfuly
+INFO 2023-10-22 17:52:45 (30021) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Magadh University successfuly
+INFO 2023-10-22 17:52:45 (30021) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maulana    Mazharul Haque Arabic and Persian University successfuly
+INFO 2023-10-22 17:52:45 (30022) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Nalanda Open    University successfuly
+INFO 2023-10-22 17:52:45 (30022) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Patna University successfuly
+INFO 2023-10-22 17:52:45 (30022) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajendra Agricultural    University successfuly
+INFO 2023-10-22 17:52:45 (30022) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tilka Manjhi    Bhagalpur University successfuly
+INFO 2023-10-22 17:52:45 (30022) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Veer Kunwar Singh    University successfuly
+INFO 2023-10-22 17:52:45 (30022) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Panjab University,    Chandigarh successfuly
+INFO 2023-10-22 17:52:45 (30023) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Ayush    and Health Sciences University of Chhattisgarh successfuly
+INFO 2023-10-22 17:52:45 (30023) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bastar    University successfuly
+INFO 2023-10-22 17:52:45 (30023) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chhattisgarh Swami    Vivekanand Technical University successfuly
+INFO 2023-10-22 17:52:45 (30023) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Hidayatullah National    Law University successfuly
+INFO 2023-10-22 17:52:45 (30023) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Indira Gandhi    Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30024) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Indira Kala Sangeet    University successfuly
+INFO 2023-10-22 17:52:45 (30024) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kushabhau Thakre    Patrakarita Avam Jansanchar University successfuly
+INFO 2023-10-22 17:52:45 (30024) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Pandit Ravishankar    Shukla University successfuly
+INFO 2023-10-22 17:52:45 (30024) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Pandit Sundarlal    Sharma (Open) University successfuly
+INFO 2023-10-22 17:52:45 (30024) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Surguja    University successfuly
+INFO 2023-10-22 17:52:45 (30025) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bharat Ratna Dr. B.    R. Ambedkar University successfuly
+INFO 2023-10-22 17:52:45 (30025) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Delhi Technological    University successfuly
+INFO 2023-10-22 17:52:45 (30025) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Guru Gobind Singh    Indraprastha University successfuly
+INFO 2023-10-22 17:52:45 (30025) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Indraprastha    Institute of Information Technology successfuly
+INFO 2023-10-22 17:52:45 (30025) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National Law    University, Delhi successfuly
+INFO 2023-10-22 17:52:45 (30026) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Goa University successfuly
+INFO 2023-10-22 17:52:45 (30026) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anand    Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30026) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharaja    Krishnakumarsinhji Bhavnagar University successfuly
+INFO 2023-10-22 17:52:45 (30026) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rai University, Ahmedabad successfuly
+INFO 2023-10-22 17:52:45 (30026) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Centre for    Environmental and Planning Technology University successfuly
+INFO 2023-10-22 17:52:45 (30027) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dharamsinh Desai    University successfuly
+INFO 2023-10-22 17:52:45 (30027) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Babasaheb    Ambedkar Open University successfuly
+INFO 2023-10-22 17:52:45 (30027) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gujarat Ayurved    University successfuly
+INFO 2023-10-22 17:52:45 (30027) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gujarat    Forensic Sciences University successfuly
+INFO 2023-10-22 17:52:45 (30027) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gujarat National Law    University successfuly
+INFO 2023-10-22 17:52:45 (30028) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gujarat Technological    University successfuly
+INFO 2023-10-22 17:52:45 (30028) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gujarat University successfuly
+INFO 2023-10-22 17:52:45 (30028) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Hemchandracharya    North Gujarat University successfuly
+INFO 2023-10-22 17:52:45 (30029) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Krantiguru Shyamji    Krishna Verma Kachchh University successfuly
+INFO 2023-10-22 17:52:45 (30029) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharaja Sayajirao    University of Baroda successfuly
+INFO 2023-10-22 17:52:45 (30030) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sardar Patel    University successfuly
+INFO 2023-10-22 17:52:45 (30030) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sardarkrushinagar    Dantiwada Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30031) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Saurashtra University successfuly
+INFO 2023-10-22 17:52:45 (30031) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Shree    Somnath Sanskrit University successfuly
+INFO 2023-10-22 17:52:45 (30031) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Veer Narmad South    Gujarat University successfuly
+INFO 2023-10-22 17:52:45 (30031) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bhagat Phool Singh    Mahila Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30032) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chaudhary Charan    Singh Haryana Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30032) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chaudhary Devi Lal    University successfuly
+INFO 2023-10-22 17:52:45 (30033) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Deenbandhu Chhotu Ram    University of Science and Technology successfuly
+INFO 2023-10-22 17:52:45 (30033) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Guru Jambheshwar    University of Science and Technology successfuly
+INFO 2023-10-22 17:52:45 (30034) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kurukshetra    University successfuly
+INFO 2023-10-22 17:52:45 (30034) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Lala    Lajpat Rai University of Veterinary and Animal Sciences successfuly
+INFO 2023-10-22 17:52:45 (30034) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharishi Dayanand    University successfuly
+INFO 2023-10-22 17:52:45 (30034) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Pandit    Bhagwat Dayal Sharma University of Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30035) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added YMCA University of    Science and Technology successfuly
+INFO 2023-10-22 17:52:45 (30035) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chaudhary Sarwan    Kumar Himachal Pradesh Krishi Vishvavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30036) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Yashwant Singh    Parmar University of Horticulture and Forestry successfuly
+INFO 2023-10-22 17:52:45 (30036) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Himachal    Pradesh Technical University successfuly
+INFO 2023-10-22 17:52:45 (30036) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Himachal Pradesh    University successfuly
+INFO 2023-10-22 17:52:45 (30036) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Baba Ghulam Shah    Badhshah University successfuly
+INFO 2023-10-22 17:52:45 (30037) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Islamic University of    Science and Technology successfuly
+INFO 2023-10-22 17:52:45 (30037) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sher-e-Kashmir    University of Agricultural Sciences and Technology of Kashmir successfuly
+INFO 2023-10-22 17:52:45 (30037) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Shri Mata Vaishno    Devi University successfuly
+INFO 2023-10-22 17:52:45 (30037) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Jammu successfuly
+INFO 2023-10-22 17:52:45 (30037) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Kashmir successfuly
+INFO 2023-10-22 17:52:45 (30038) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Ranchi University successfuly
+INFO 2023-10-22 17:52:45 (30038) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kolhan University successfuly
+INFO 2023-10-22 17:52:45 (30038) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National University    of Study and Research in Law successfuly
+INFO 2023-10-22 17:52:45 (30038) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Nilamber-Pitamber    University successfuly
+INFO 2023-10-22 17:52:45 (30039) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Birsa Agricultural    University successfuly
+INFO 2023-10-22 17:52:45 (30039) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sido Kanhu University successfuly
+INFO 2023-10-22 17:52:45 (30039) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Vinoba Bhave    University successfuly
+INFO 2023-10-22 17:52:45 (30039) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bangalore University successfuly
+INFO 2023-10-22 17:52:45 (30039) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Davangere University successfuly
+INFO 2023-10-22 17:52:45 (30040) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gulbarga University successfuly
+INFO 2023-10-22 17:52:45 (30040) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kannada University successfuly
+INFO 2023-10-22 17:52:45 (30040) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Karnatak University successfuly
+INFO 2023-10-22 17:52:45 (30040) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Karnataka    Samskrit University successfuly
+INFO 2023-10-22 17:52:45 (30040) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Karnataka State Law    University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Karnataka State Open    University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Karnataka State    Women's University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Karnataka Veterinary,    Animal and Fisheries Sciences University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added KSGH    Music and Performing Arts University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kuvempu University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mangalore University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National Law School    of India University successfuly
+INFO 2023-10-22 17:52:45 (30041) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajiv Gandhi    University of Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rani    Channamma University successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tumkur University successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of    Agricultural Sciences, Bangalore successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of    Agricultural Sciences, Dharwad successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Mysore successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Visvesvaraya    Technological University successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Vijayanagara    Sri Krishnadevaraya University successfuly
+INFO 2023-10-22 17:52:45 (30042) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Calicut University successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Cochin University of    Science and Technology successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kannur University successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kerala Agricultural    University successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kerala University of    Fisheries and Ocean Studies successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kerala University of    Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kerala Veterinary and    Animal Sciences University successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mahatma Gandhi    University successfuly
+INFO 2023-10-22 17:52:45 (30043) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National University    of Advanced Legal Studies successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sree Sankaracharya    University of Sanskrit successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Kerala successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Awdhesh Pratap Singh    University successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added AKS University successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Barkatullah    University successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Devi Ahilya    University successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jawaharlal    Nehru Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jiwaji University successfuly
+INFO 2023-10-22 17:52:45 (30044) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Madhya Pradesh Bhoj    Open University successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharishi Mahesh Yogi    Vedic Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharshi Panini    Sanskrit University successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mahatma Gandhi    Chitrakoot Gramoday University successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Makhanlal Chaturvedi    National University of Journalism and Communication successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National Law    Institute University successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajiv Gandhi    Technical University successfuly
+INFO 2023-10-22 17:52:45 (30045) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rani Durgavati    University successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Madhya    Pradesh Pashu-Chikitsa Vigyan Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Vikram University successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Babasaheb    Ambedkar Marathwada University successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Babasaheb    Ambedkar Technological University successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Balasaheb Sawant    Konkan Krishi Vidyapeeth successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Panjabrao    Deshmukh Krishi Vidyapeeth successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kavi    Kulguru Kalidas Sanskrit Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30046) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharashtra Animal    and Fishery Sciences University successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharashtra    University of Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mahatma Phule Krishi    Vidyapeeth successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Marathwada    Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added North Maharashtra    University successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rashtrasant Tukadoji    Maharaj Nagpur University successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sant Gadge Baba    Amravati University successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Shivaji University successfuly
+INFO 2023-10-22 17:52:45 (30047) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Shreemati Nathibai    Damodar Thackersey Women's University successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Solapur University successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Swami Ramanand Teerth    Marathwada University successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Mumbai successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Pune successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Yashwantrao Chavan    Maharashtra Open University successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Berhampur University successfuly
+INFO 2023-10-22 17:52:45 (30048) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Biju Patnaik    University of Technology successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Fakir Mohan    University successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National Law    University, Orissa successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added North Orissa    University successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Orissa University of    Agriculture and Technology successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Ravenshaw University successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sambalpur University successfuly
+INFO 2023-10-22 17:52:45 (30049) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Shri    Jagannath Sanskrit Vishvavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Utkal University successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Utkal    University of Culture successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Veer Surendra Sai    University of Technology, Burla successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Baba Farid University    of Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Guru Angad Dev    Veterinary and Animal Sciences University successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Guru Nanak Dev    University successfuly
+INFO 2023-10-22 17:52:45 (30050) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Punjab Agricultural    University successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Punjab Technical    University successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Punjabi University successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajiv Gandhi National    University of Law successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jagadguru    Ramanadacharya Rajasthan Sanskrit University successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jai Narain Vyas    University successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharaja Ganga Singh    University successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharana Pratap    University of Agriculture and Technology successfuly
+INFO 2023-10-22 17:52:45 (30051) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Maharshi Dayanand    Saraswati University successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mohanlal Sukhadia    University successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added National Law    University, Jodhpur successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajasthan    Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajasthan Ayurved    University successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajasthan Technical    University successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rajasthan University    of Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Kota successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of    Rajasthan successfuly
+INFO 2023-10-22 17:52:45 (30052) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Vardhaman Mahaveer    Open University successfuly
+INFO 2023-10-22 17:52:45 (30053) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Alagappa University successfuly
+INFO 2023-10-22 17:52:45 (30053) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anna University,    Chennai successfuly
+INFO 2023-10-22 17:52:45 (30053) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anna University of    Technology, Chennai successfuly
+INFO 2023-10-22 17:52:45 (30054) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anna University of    Technology, Coimbatore successfuly
+INFO 2023-10-22 17:52:45 (30054) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anna University of    Technology, Madurai successfuly
+INFO 2023-10-22 17:52:45 (30054) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anna University of    Technology, Tiruchirappalli successfuly
+INFO 2023-10-22 17:52:45 (30054) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Anna University of    Technology Tirunelveli successfuly
+INFO 2023-10-22 17:52:45 (30054) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Annamalai University successfuly
+INFO 2023-10-22 17:52:45 (30055) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bharathiar University successfuly
+INFO 2023-10-22 17:52:45 (30055) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bharathidasan    University successfuly
+INFO 2023-10-22 17:52:45 (30055) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Madurai Kamaraj    University successfuly
+INFO 2023-10-22 17:52:45 (30055) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Manonmaniam    Sundaranar University successfuly
+INFO 2023-10-22 17:52:45 (30056) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mother Teresa Women's    University successfuly
+INFO 2023-10-22 17:52:45 (30057) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Periyar University successfuly
+INFO 2023-10-22 17:52:45 (30057) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil University successfuly
+INFO 2023-10-22 17:52:45 (30057) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil Nadu    Agricultural University successfuly
+INFO 2023-10-22 17:52:45 (30058) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil Nadu Dr.    Ambedkar Law University successfuly
+INFO 2023-10-22 17:52:45 (30058) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil Nadu Dr. M.G.R.    Medical University successfuly
+INFO 2023-10-22 17:52:45 (30058) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil Nadu Open    University successfuly
+INFO 2023-10-22 17:52:45 (30059) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil Nadu Physical    Education and Sports University successfuly
+INFO 2023-10-22 17:52:45 (30059) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil    Nadu Teacher Education University successfuly
+INFO 2023-10-22 17:52:45 (30059) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Tamil Nadu Veterinary    and Animal Sciences University successfuly
+INFO 2023-10-22 17:52:45 (30059) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Thiruvalluvar    University successfuly
+INFO 2023-10-22 17:52:45 (30060) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Madras successfuly
+INFO 2023-10-22 17:52:45 (30060) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bundelkhand    University successfuly
+INFO 2023-10-22 17:52:45 (30060) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chandra Shekhar Azad    University of Agriculture and Technology successfuly
+INFO 2023-10-22 17:52:45 (30060) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chaudhary Charan    Singh University successfuly
+INFO 2023-10-22 17:52:45 (30061) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chhatrapati    Shahuji Maharaj Medical University successfuly
+INFO 2023-10-22 17:52:45 (30061) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Chhatrapati Shahu Ji    Maharaj University successfuly
+INFO 2023-10-22 17:52:45 (30061) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Deen Dayal Upadhyay    Gorakhpur University successfuly
+INFO 2023-10-22 17:52:45 (30061) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. B. R. Ambedkar    University successfuly
+INFO 2023-10-22 17:52:45 (30062) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Ram Manohar Lohia    Avadh University successfuly
+INFO 2023-10-22 17:52:45 (30062) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr. Ram Manohar Lohia    National Law University successfuly
+INFO 2023-10-22 17:52:45 (30062) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Dr.    Shakuntala Misra Rehabilitation University successfuly
+INFO 2023-10-22 17:52:45 (30062) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gautam Buddha    University successfuly
+INFO 2023-10-22 17:52:45 (30063) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Gautam Buddh    Technical University successfuly
+INFO 2023-10-22 17:52:45 (30063) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added M. J. P. Rohilkhand    University successfuly
+INFO 2023-10-22 17:52:45 (30063) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mahamaya Technical    University successfuly
+INFO 2023-10-22 17:52:45 (30063) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Mahatma Gandhi Kashi    Vidyapeeth successfuly
+INFO 2023-10-22 17:52:45 (30063) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Manyavar    Sri Kanshi Ram Ji Urdu, Arabi~Farsi University successfuly
+INFO 2023-10-22 17:52:45 (30064) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Narendra Dev    University of Agriculture and Technology successfuly
+INFO 2023-10-22 17:52:45 (30064) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sampurnanand Sanskrit    University successfuly
+INFO 2023-10-22 17:52:45 (30069) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sardar Vallabhbhai    Patel University of Agriculture and Technology successfuly
+INFO 2023-10-22 17:52:45 (30074) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Lucknow successfuly
+INFO 2023-10-22 17:52:45 (30075) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Uttar Pradesh King    George's University of Dental Sciences successfuly
+INFO 2023-10-22 17:52:45 (30075) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Uttar Pradesh    Rajarshi Tandon Open University successfuly
+INFO 2023-10-22 17:52:45 (30075) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Veer Bahadur Singh    Purvanchal University successfuly
+INFO 2023-10-22 17:52:45 (30076) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Doon University successfuly
+INFO 2023-10-22 17:52:45 (30076) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added G. B. Pant University    of Agriculture and Technology successfuly
+INFO 2023-10-22 17:52:45 (30076) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Kumaun University successfuly
+INFO 2023-10-22 17:52:45 (30076) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Uttarakhand Open    University successfuly
+INFO 2023-10-22 17:52:45 (30076) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Uttarakhand Technical    University successfuly
+INFO 2023-10-22 17:52:45 (30077) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Uttaranchal    Sanskrit University successfuly
+INFO 2023-10-22 17:52:45 (30077) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Aliah University successfuly
+INFO 2023-10-22 17:52:45 (30077) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bengal Engineering    and Science University, Shibpur successfuly
+INFO 2023-10-22 17:52:45 (30077) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Bidhan Chandra Krishi    Viswavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30077) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Jadavpur University successfuly
+INFO 2023-10-22 17:52:45 (30078) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Netaji Subhas Open    University successfuly
+INFO 2023-10-22 17:52:45 (30078) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Presidency    University, Kolkata successfuly
+INFO 2023-10-22 17:52:45 (30078) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Rabindra Bharati    University successfuly
+INFO 2023-10-22 17:52:45 (30078) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Sidho Kanho Birsha    University successfuly
+INFO 2023-10-22 17:52:45 (30078) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Burdwan successfuly
+INFO 2023-10-22 17:52:45 (30079) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of    Calcutta successfuly
+INFO 2023-10-22 17:52:45 (30079) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Gour    Banga successfuly
+INFO 2023-10-22 17:52:45 (30079) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of Kalyani successfuly
+INFO 2023-10-22 17:52:45 (30079) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added University of North    Bengal successfuly
+INFO 2023-10-22 17:52:45 (30079) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Uttar Banga Krishi    Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:45 (30079) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added Vidyasagar University successfuly
+INFO 2023-10-22 17:52:45 (30080) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added West Bengal State    University successfuly
+INFO 2023-10-22 17:52:45 (30080) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added West Bengal National    University of Juridical Sciences successfuly
+INFO 2023-10-22 17:52:45 (30080) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added West Bengal    University of Animal and Fishery Sciences successfuly
+INFO 2023-10-22 17:52:45 (30080) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added West Bengal    University of Health Sciences successfuly
+INFO 2023-10-22 17:52:45 (30080) 	 /tmp/ipykernel_54824/3529496377.py F<module> L12 - Added West Bengal    University of Technology successfuly
+INFO 2023-10-22 17:52:51 (35798) 	 /tmp/ipykernel_54824/2706232321.py F<module> L3 - Scraped Deemed Universities successfully.
+INFO 2023-10-22 17:52:52 (36284) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Gandhi Institute of Technology and Management successfuly
+INFO 2023-10-22 17:52:52 (36285) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added K L University successfuly
+INFO 2023-10-22 17:52:52 (36285) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Rashtriya Sanskrit    Vidyapeeth successfuly
+INFO 2023-10-22 17:52:52 (36286) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sri Sathya Sai University successfuly
+INFO 2023-10-22 17:52:52 (36294) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Vignan University successfuly
+INFO 2023-10-22 17:52:52 (36295) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added North Eastern Regional Institute of Science and    Technology successfuly
+INFO 2023-10-22 17:52:52 (36296) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Bihar Yoga Bharati successfuly
+INFO 2023-10-22 17:52:52 (36296) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Nava Nalanda Mahavihara successfuly
+INFO 2023-10-22 17:52:52 (36296) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added PEC University of Technology successfuly
+INFO 2023-10-22 17:52:52 (36297) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian Agricultural Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36297) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian Institute of Foreign Trade successfuly
+INFO 2023-10-22 17:52:52 (36297) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian Law Institute successfuly
+INFO 2023-10-22 17:52:52 (36298) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Institute of Liver and Biliary Sciences successfuly
+INFO 2023-10-22 17:52:52 (36298) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Jamia Hamdard successfuly
+INFO 2023-10-22 17:52:52 (36298) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added National Museum Institute of the History of Art,    Conservation and Museology successfuly
+INFO 2023-10-22 17:52:52 (36298) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added National University of Educational Planning and    Administration successfuly
+INFO 2023-10-22 17:52:52 (36299) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Rashtriya Sanskrit Sansthan successfuly
+INFO 2023-10-22 17:52:52 (36299) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Shri Lal Bahadur Shastri Rashtriya Sanskrit    Vidyapeetha successfuly
+INFO 2023-10-22 17:52:52 (36299) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added TERI University successfuly
+INFO 2023-10-22 17:52:52 (36300) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Gujarat Vidyapith successfuly
+INFO 2023-10-22 17:52:52 (36300) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sumandeep University successfuly
+INFO 2023-10-22 17:52:52 (36300) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Lingaya's University successfuly
+INFO 2023-10-22 17:52:52 (36300) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Maharishi Markandeshwar University, Mullana successfuly
+INFO 2023-10-22 17:52:52 (36301) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Manav Rachna International University successfuly
+INFO 2023-10-22 17:52:52 (36301) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added National Brain Research Centre successfuly
+INFO 2023-10-22 17:52:52 (36301) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added National Dairy Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36301) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Birla Institute of Technology, Mesra successfuly
+INFO 2023-10-22 17:52:52 (36301) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian School of Mines successfuly
+INFO 2023-10-22 17:52:52 (36302) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added B.L.D.E. University successfuly
+INFO 2023-10-22 17:52:52 (36302) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Christ University successfuly
+INFO 2023-10-22 17:52:52 (36302) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian Institute of Science successfuly
+INFO 2023-10-22 17:52:52 (36302) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added International Institute of Information Technology,    Bangalore successfuly
+INFO 2023-10-22 17:52:52 (36302) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Jagadguru Sri Shivarathreeshwara University successfuly
+INFO 2023-10-22 17:52:52 (36303) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Jain University successfuly
+INFO 2023-10-22 17:52:52 (36303) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Jawaharlal Nehru Centre for Advanced Scientific    Research successfuly
+INFO 2023-10-22 17:52:52 (36303) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added KLE Academy of Higher Education & Research successfuly
+INFO 2023-10-22 17:52:52 (36303) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Manipal University successfuly
+INFO 2023-10-22 17:52:52 (36303) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Nitte University successfuly
+INFO 2023-10-22 17:52:52 (36304) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sri Devaraj Urs Academy of Higher Education and    Research successfuly
+INFO 2023-10-22 17:52:52 (36304) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sri Siddhartha Academy of Higher Education successfuly
+INFO 2023-10-22 17:52:52 (36304) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Swami Vivekananda Yoga Anusandhana Samsthana successfuly
+INFO 2023-10-22 17:52:52 (36304) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Yenepoya University successfuly
+INFO 2023-10-22 17:52:52 (36304) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian Institute of Space Science and Technology successfuly
+INFO 2023-10-22 17:52:52 (36305) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Kerala Kalamandalam successfuly
+INFO 2023-10-22 17:52:52 (36305) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Lakshmibai National University of Physical Education successfuly
+INFO 2023-10-22 17:52:52 (36305) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Bharati Vidyapeeth successfuly
+INFO 2023-10-22 17:52:52 (36305) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Central Institute of Fisheries Education successfuly
+INFO 2023-10-22 17:52:52 (36305) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added D. Y. Patil Education    Society successfuly
+INFO 2023-10-22 17:52:52 (36306) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Datta Meghe Institute of    Medical Sciences successfuly
+INFO 2023-10-22 17:52:52 (36306) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Deccan College Post-Graduate and Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36306) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Defence Institute of Advanced Technology successfuly
+INFO 2023-10-22 17:52:52 (36306) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Dr. D. Y. Patil Vidyapeeth successfuly
+INFO 2023-10-22 17:52:52 (36306) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Gokhale Institute of Politics and Economics successfuly
+INFO 2023-10-22 17:52:52 (36307) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Homi Bhabha National Institute successfuly
+INFO 2023-10-22 17:52:52 (36308) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indira Gandhi Institute of Development Research successfuly
+INFO 2023-10-22 17:52:52 (36309) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Institute of Chemical Technology successfuly
+INFO 2023-10-22 17:52:52 (36309) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added International Institute for Population Sciences successfuly
+INFO 2023-10-22 17:52:52 (36309) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Krishna Institute of    Medical Sciences successfuly
+INFO 2023-10-22 17:52:52 (36310) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added MGM Institute of Health    Sciences successfuly
+INFO 2023-10-22 17:52:52 (36310) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Narsee Monjee Institute of Management Studies successfuly
+INFO 2023-10-22 17:52:52 (36311) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Pravara Institute of    Medical Sciences successfuly
+INFO 2023-10-22 17:52:52 (36311) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Symbiosis International University successfuly
+INFO 2023-10-22 17:52:52 (36312) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Tata Institute of Fundamental Research successfuly
+INFO 2023-10-22 17:52:52 (36312) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Tata Institute of Social Sciences successfuly
+INFO 2023-10-22 17:52:52 (36313) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Tilak Maharashtra University successfuly
+INFO 2023-10-22 17:52:52 (36313) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added KIIT University successfuly
+INFO 2023-10-22 17:52:52 (36313) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Siksha 'O' Anusandhan successfuly
+INFO 2023-10-22 17:52:52 (36314) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sri Balaji Vidyapeeth    University successfuly
+INFO 2023-10-22 17:52:52 (36314) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sant Longowal Institute of Engineering and Technology successfuly
+INFO 2023-10-22 17:52:52 (36314) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Thapar University successfuly
+INFO 2023-10-22 17:52:52 (36314) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Banasthali Vidyapith successfuly
+INFO 2023-10-22 17:52:52 (36315) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Birla Institute of Technology and Science successfuly
+INFO 2023-10-22 17:52:52 (36315) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added IIS University successfuly
+INFO 2023-10-22 17:52:52 (36315) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Institute of Advanced Studies in Education successfuly
+INFO 2023-10-22 17:52:52 (36316) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Jain Vishva Bharati University successfuly
+INFO 2023-10-22 17:52:52 (36316) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Janardan Rai Nagar Rajasthan Vidyapeeth University successfuly
+INFO 2023-10-22 17:52:52 (36316) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added LNM Institute of Information Technology successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added AMET University successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Amrita Vishwa Vidyapeetham successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Avinashilingam Institute for Home Science and Higher    Education for Women successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added B. S. Abdur Rahman University successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Bharath University successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Chennai Mathematical Institute successfuly
+INFO 2023-10-22 17:52:52 (36317) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Chettinad University successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Dr. M.G.R. Educational and Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Gandhigram Rural Institute successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Hindustan University successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Kalasalingam University successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Karpagam University successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Karunya University successfuly
+INFO 2023-10-22 17:52:52 (36318) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Meenakshi Academy of Higher Education and Research successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Noorul Islam University successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Periyar Maniammai University successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added PRIST University successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sathyabama University successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Saveetha University successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Shanmugha Arts, Science, Technology & Research    Academy successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya successfuly
+INFO 2023-10-22 17:52:52 (36319) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sri Ramachandra Medical College and Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36320) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added SRM University successfuly
+INFO 2023-10-22 17:52:52 (36320) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added St. Peter's University successfuly
+INFO 2023-10-22 17:52:52 (36320) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Vel Tech Dr.RR & Dr.SR Technical University successfuly
+INFO 2023-10-22 17:52:52 (36320) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Vels University successfuly
+INFO 2023-10-22 17:52:52 (36320) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Vinayaka Missions University successfuly
+INFO 2023-10-22 17:52:52 (36321) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added VIT University successfuly
+INFO 2023-10-22 17:52:52 (36321) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added ICFAI Foundation for Higher Education successfuly
+INFO 2023-10-22 17:52:52 (36321) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added International Institute of Information Technology,    Hyderabad successfuly
+INFO 2023-10-22 17:52:52 (36321) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Bhatkhande Music Institute successfuly
+INFO 2023-10-22 17:52:52 (36321) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Central Institute of Higher Tibetan Studies successfuly
+INFO 2023-10-22 17:52:52 (36321) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Dayalbagh Educational Institute successfuly
+INFO 2023-10-22 17:52:52 (36322) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Indian Veterinary Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36322) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Jaypee Institute of Information Technology University successfuly
+INFO 2023-10-22 17:52:52 (36322) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Nehru Gram Bharti    University successfuly
+INFO 2023-10-22 17:52:52 (36322) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Sam Higginbottom Institute of Agriculture, Technology    and Sciences successfuly
+INFO 2023-10-22 17:52:52 (36322) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Santosh University successfuly
+INFO 2023-10-22 17:52:52 (36323) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Shobhit University successfuly
+INFO 2023-10-22 17:52:52 (36323) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Forest Research Institute successfuly
+INFO 2023-10-22 17:52:52 (36323) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Graphic Era University successfuly
+INFO 2023-10-22 17:52:52 (36323) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Gurukul Kangri Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:52 (36323) 	 /tmp/ipykernel_54824/316027147.py F<module> L11 - Added Ramakrishna Mission Vivekananda University successfuly
+INFO 2023-10-22 17:52:56 (40585) 	 /tmp/ipykernel_54824/1390709198.py F<module> L3 - Scraped private Universities successfully.
+INFO 2023-10-22 17:52:57 (41341) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Ajeenkya DY Patil University successfuly
+INFO 2023-10-22 17:52:57 (41343) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Aks University successfuly
+INFO 2023-10-22 17:52:57 (41344) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Assam Don Bosco University successfuly
+INFO 2023-10-22 17:52:57 (41345) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Assam Down Town University successfuly
+INFO 2023-10-22 17:52:57 (41345) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added North East Frontier Technical University (NEFTU) successfuly
+INFO 2023-10-22 17:52:57 (41345) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Dr. C. V. Raman University successfuly
+INFO 2023-10-22 17:52:57 (41345) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Raipur successfuly
+INFO 2023-10-22 17:52:57 (41346) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Maharishi University of Management and Technology successfuly
+INFO 2023-10-22 17:52:57 (41346) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added MATS University successfuly
+INFO 2023-10-22 17:52:57 (41346) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added ITM-University successfuly
+INFO 2023-10-22 17:52:57 (41347) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Ahmedabad University successfuly
+INFO 2023-10-22 17:52:57 (41347) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Rai University, Ahmedabad successfuly
+INFO 2023-10-22 17:52:57 (41347) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added IndusUniversity, Ahmedabad successfuly
+INFO 2023-10-22 17:52:57 (41347) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added ITM Vocational University, Gujarat, Vadodara[29] successfuly
+INFO 2023-10-22 17:52:57 (41348) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Calrox Teacher's University successfuly
+INFO 2023-10-22 17:52:57 (41348) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Charotar University of Science and Technology successfuly
+INFO 2023-10-22 17:52:57 (41348) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Dhirubhai Ambani Institute of Information and    Communication Technology successfuly
+INFO 2023-10-22 17:52:57 (41348) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Ganpat University successfuly
+INFO 2023-10-22 17:52:57 (41349) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Kadi Sarva Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:57 (41349) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Navrachna University successfuly
+INFO 2023-10-22 17:52:57 (41349) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Nirma University of Science and Technology successfuly
+INFO 2023-10-22 17:52:57 (41349) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Pandit Deendayal Petroleum University successfuly
+INFO 2023-10-22 17:52:57 (41350) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added RK University successfuly
+INFO 2023-10-22 17:52:57 (41350) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added UKA Tarsadia University successfuly
+INFO 2023-10-22 17:52:57 (41350) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University Haryana successfuly
+INFO 2023-10-22 17:52:57 (41350) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Manav rachna international university successfuly
+INFO 2023-10-22 17:52:57 (41350) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Ansal University successfuly
+INFO 2023-10-22 17:52:57 (41351) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Apeejay Stya University successfuly
+INFO 2023-10-22 17:52:57 (41351) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added ITM University successfuly
+INFO 2023-10-22 17:52:57 (41351) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added School of Inspired Leadership successfuly
+INFO 2023-10-22 17:52:57 (41351) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Maharishi Markandeshwar University, Ambala successfuly
+INFO 2023-10-22 17:52:57 (41351) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added NIILM University successfuly
+INFO 2023-10-22 17:52:57 (41352) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added O. P. Jindal Global University successfuly
+INFO 2023-10-22 17:52:57 (41352) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added AP Goyal Shimla University successfuly
+INFO 2023-10-22 17:52:57 (41352) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Arni University successfuly
+INFO 2023-10-22 17:52:57 (41352) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Baddi University of Emerging Sciences and Technologies successfuly
+INFO 2023-10-22 17:52:57 (41352) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Bahra University successfuly
+INFO 2023-10-22 17:52:57 (41352) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Chitkara University successfuly
+INFO 2023-10-22 17:52:57 (41353) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Eternal University successfuly
+INFO 2023-10-22 17:52:57 (41353) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Himachal Pradesh successfuly
+INFO 2023-10-22 17:52:57 (41353) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jaypee University of Information Technology successfuly
+INFO 2023-10-22 17:52:57 (41353) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Maharishi Markandeshwar University Solan successfuly
+INFO 2023-10-22 17:52:57 (41353) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Manav Bharti University successfuly
+INFO 2023-10-22 17:52:57 (41353) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Shoolini University of Biotechnology and Management    Sciences successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sri Sai University successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Jharkhand successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Himalayan University successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Alliance University successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Azim Premji University successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Acropolis Institute of Technology and Research successfuly
+INFO 2023-10-22 17:52:57 (41354) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added AISECT University successfuly
+INFO 2023-10-22 17:52:57 (41355) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University Madhya Pradesh successfuly
+INFO 2023-10-22 17:52:57 (41355) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added ITM University successfuly
+INFO 2023-10-22 17:52:57 (41355) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added AKS University successfuly
+INFO 2023-10-22 17:52:57 (41356) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jaypee University of Engineering and Technology successfuly
+INFO 2023-10-22 17:52:57 (41356) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Oriental University successfuly
+INFO 2023-10-22 17:52:57 (41357) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added People's University successfuly
+INFO 2023-10-22 17:52:57 (41357) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added RKDF University successfuly
+INFO 2023-10-22 17:52:57 (41357) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University successfuly
+INFO 2023-10-22 17:52:57 (41357) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added CMJ University successfuly
+INFO 2023-10-22 17:52:57 (41358) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Meghalaya successfuly
+INFO 2023-10-22 17:52:57 (41358) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Mahatma Gandhi University successfuly
+INFO 2023-10-22 17:52:57 (41359) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Martin Luther Christian University successfuly
+INFO 2023-10-22 17:52:57 (41359) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Techno Global University successfuly
+INFO 2023-10-22 17:52:57 (41359) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added University of Science and Technology, Meghalaya (USTM) successfuly
+INFO 2023-10-22 17:52:57 (41359) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added University of Technology and Management successfuly
+INFO 2023-10-22 17:52:57 (41359) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added William Carey University successfuly
+INFO 2023-10-22 17:52:57 (41360) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Mizoram successfuly
+INFO 2023-10-22 17:52:57 (41360) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added The Global Open University Nagaland successfuly
+INFO 2023-10-22 17:52:57 (41360) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Nagaland successfuly
+INFO 2023-10-22 17:52:57 (41360) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Centurion University of Technology and Management successfuly
+INFO 2023-10-22 17:52:57 (41360) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added KIIT University successfuly
+INFO 2023-10-22 17:52:57 (41361) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Siksha O Anusandhan University successfuly
+INFO 2023-10-22 17:52:57 (41361) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sri Sri University successfuly
+INFO 2023-10-22 17:52:57 (41361) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Xavier University successfuly
+INFO 2023-10-22 17:52:57 (41361) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Desh Bhagat University successfuly
+INFO 2023-10-22 17:52:57 (41361) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Chitkara University successfuly
+INFO 2023-10-22 17:52:57 (41362) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Chandigarh University successfuly
+INFO 2023-10-22 17:52:57 (41362) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Lovely Professional University successfuly
+INFO 2023-10-22 17:52:57 (41362) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sri Guru Granth Sahib World University successfuly
+INFO 2023-10-22 17:52:57 (41362) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University Rajasthan successfuly
+INFO 2023-10-22 17:52:57 (41362) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added RNB Global University successfuly
+INFO 2023-10-22 17:52:57 (41363) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added University of Engineering and Management, Jaipur successfuly
+INFO 2023-10-22 17:52:57 (41363) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Bhagwant University successfuly
+INFO 2023-10-22 17:52:57 (41363) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Dr. K. N. Modi University successfuly
+INFO 2023-10-22 17:52:57 (41363) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Homoeopathy University successfuly
+INFO 2023-10-22 17:52:57 (41364) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Jaipur successfuly
+INFO 2023-10-22 17:52:57 (41364) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jagannath University successfuly
+INFO 2023-10-22 17:52:57 (41364) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Shri Jagdishprasad Jhabarmal Tibrewala University successfuly
+INFO 2023-10-22 17:52:57 (41364) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jaipur National University successfuly
+INFO 2023-10-22 17:52:57 (41365) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added vivekananda Global University successfuly
+INFO 2023-10-22 17:52:57 (41365) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jayoti Vidyapeeth Women's University successfuly
+INFO 2023-10-22 17:52:57 (41365) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jodhpur National University successfuly
+INFO 2023-10-22 17:52:57 (41365) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added JK Lakshmipat University successfuly
+INFO 2023-10-22 17:52:57 (41365) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Mahatma Gandhi University of Medical Sciences and    Technology successfuly
+INFO 2023-10-22 17:52:57 (41366) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Mahatma Jyoti Rao Phoole University successfuly
+INFO 2023-10-22 17:52:57 (41366) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Manipal University, Jaipur successfuly
+INFO 2023-10-22 17:52:57 (41366) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Mewar University successfuly
+INFO 2023-10-22 17:52:57 (41366) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added NIIT University successfuly
+INFO 2023-10-22 17:52:57 (41367) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Bhagwant university successfuly
+INFO 2023-10-22 17:52:57 (41367) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Geetanjali University successfuly
+INFO 2023-10-22 17:52:57 (41367) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added NIMS University, Jaipur successfuly
+INFO 2023-10-22 17:52:57 (41367) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Pacific University successfuly
+INFO 2023-10-22 17:52:57 (41368) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Pratap University successfuly
+INFO 2023-10-22 17:52:57 (41368) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Raffles University successfuly
+INFO 2023-10-22 17:52:57 (41368) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Shridhar University successfuly
+INFO 2023-10-22 17:52:57 (41368) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Singhania University successfuly
+INFO 2023-10-22 17:52:57 (41369) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sir Padampat Singhania University successfuly
+INFO 2023-10-22 17:52:57 (41369) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sunrise University successfuly
+INFO 2023-10-22 17:52:57 (41369) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Suresh Gyan Vihar University successfuly
+INFO 2023-10-22 17:52:57 (41370) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Eastern Institute for Integrated Learning in    Management University successfuly
+INFO 2023-10-22 17:52:57 (41375) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Sikkim successfuly
+INFO 2023-10-22 17:52:57 (41376) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sikkim Manipal University successfuly
+INFO 2023-10-22 17:52:57 (41377) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Vinayaka Missions Sikkim University successfuly
+INFO 2023-10-22 17:52:57 (41378) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Institute of Chartered Financial Analysts of India    University, Tripura successfuly
+INFO 2023-10-22 17:52:57 (41379) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University successfuly
+INFO 2023-10-22 17:52:57 (41380) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Babu Banarasi Das University successfuly
+INFO 2023-10-22 17:52:57 (41380) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University, Lucknow successfuly
+INFO 2023-10-22 17:52:57 (41380) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Galgotias University successfuly
+INFO 2023-10-22 17:52:57 (41380) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added GLA University successfuly
+INFO 2023-10-22 17:52:57 (41380) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added IFTM University successfuly
+INFO 2023-10-22 17:52:57 (41380) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Integral University successfuly
+INFO 2023-10-22 17:52:57 (41381) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Invertis University successfuly
+INFO 2023-10-22 17:52:57 (41381) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Jagadguru Rambhadracharya Handicapped University successfuly
+INFO 2023-10-22 17:52:57 (41381) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Mangalayatan University successfuly
+INFO 2023-10-22 17:52:57 (41381) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Mohammad Ali Jauhar University successfuly
+INFO 2023-10-22 17:52:57 (41382) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sharda University successfuly
+INFO 2023-10-22 17:52:57 (41382) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Shiv Nadar University successfuly
+INFO 2023-10-22 17:52:57 (41382) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Shri Venkateshwara University successfuly
+INFO 2023-10-22 17:52:57 (41382) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Swami Vivekanand Subharti University successfuly
+INFO 2023-10-22 17:52:57 (41382) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Shobhit University successfuly
+INFO 2023-10-22 17:52:57 (41383) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Teerthanker Mahaveer University successfuly
+INFO 2023-10-22 17:52:57 (41383) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added The Glocal University successfuly
+INFO 2023-10-22 17:52:57 (41383) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Dev Sanskriti Vishwavidyalaya successfuly
+INFO 2023-10-22 17:52:57 (41383) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added DIT University successfuly
+INFO 2023-10-22 17:52:57 (41384) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Himgiri Zee University successfuly
+INFO 2023-10-22 17:52:57 (41384) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added ICFAI University, Dehradun successfuly
+INFO 2023-10-22 17:52:57 (41384) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added University of Petroleum and Energy Studies successfuly
+INFO 2023-10-22 17:52:57 (41384) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added University of Patanjali successfuly
+INFO 2023-10-22 17:52:57 (41384) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Techno India University successfuly
+INFO 2023-10-22 17:52:57 (41385) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Adamas University successfuly
+INFO 2023-10-22 17:52:57 (41385) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added JIS University successfuly
+INFO 2023-10-22 17:52:57 (41385) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Seacom Skills University successfuly
+INFO 2023-10-22 17:52:57 (41385) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added University of Engineering and Management successfuly
+INFO 2023-10-22 17:52:57 (41386) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Neotia University successfuly
+INFO 2023-10-22 17:52:57 (41386) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Amity University successfuly
+INFO 2023-10-22 17:52:57 (41386) 	 /tmp/ipykernel_54824/2625529436.py F<module> L20 - Added Sri Satya Sai University of Technology & Medical    Sciences successfuly
+INFO 2023-10-22 17:52:58 (42701) 	 /tmp/ipykernel_54824/86316296.py F<module> L1 - Successfully scraped all university data.
+INFO 2023-10-22 17:53:07 (51507) 	 /tmp/ipykernel_54824/181858014.py F<module> L3 - Data saved to json file succesfully!
