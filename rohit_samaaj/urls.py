@@ -25,5 +25,6 @@ urlpatterns = [
     path('', home),
     path('accounts/', include('users.urls')),
     path('survey/', include('survey.urls')),
+    path('api/survey/', include('survey.api.urls')),
     path("__reload__/", include("django_browser_reload.urls")),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
