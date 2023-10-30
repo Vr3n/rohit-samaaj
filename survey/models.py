@@ -54,7 +54,6 @@ class SamaajMemberMobileNumber(BaseModel):
     samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.CASCADE)
     mobile_number = models.CharField(
         max_length=10,
-        unique=True
     )  # Assuming a reasonable max length for mobile numbers
     is_whatsapp = models.BooleanField(default=False)
 
