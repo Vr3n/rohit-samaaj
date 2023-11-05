@@ -1,11 +1,15 @@
 from django.db import models
-
+from .validators import (validate_mobile_number_length,
+                         string_only_contain_digits_validator,)
 # Create your models here.
 
 
 class BaseModel(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        abstract = True
 
 
 class CountryMaster(models.Model):
@@ -42,20 +46,29 @@ class StateUniversitiesMaster(models.Model):
 class SamaajMember(BaseModel):
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
-    father_name = models.CharField(max_length=100)
-    mother_name = models.CharField(max_length=100)
+    father_name = models.CharField(max_length=100, null=True, blank=True)
+    mother_name = models.CharField(max_length=100, null=True, blank=True)
 
     def __str__(self) -> str:
         return f"{self.first_name} {self.last_name}"
 
 
 # Model for Samaaj Member Mobile Number
-class SamaajMemberMobileNumber(BaseModel):
-    samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.CASCADE)
+class MobileNumberMaster(BaseModel):
     mobile_number = models.CharField(
         max_length=10,
+        unique=True,
+        validators=[
+            string_only_contain_digits_validator,
+            validate_mobile_number_length,
+        ]
     )  # Assuming a reasonable max length for mobile numbers
-    is_whatsapp = models.BooleanField(default=False)
+
+
+class SamaajMemberMobileNumberMaster(BaseModel):
+    samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.PROTECT)
+    mobile_number = models.ForeignKey(
+        MobileNumberMaster, on_delete=models.PROTECT)
 
 
 # Model for Samaaj Member Email
