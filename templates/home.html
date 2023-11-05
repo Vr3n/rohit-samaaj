@@ -2,14 +2,22 @@
 <!-- -->
 {% block content %}
 <h1 class="font-bold text-blue-500 text-4xl">Hello, Friend!</h1>
-<button
-  class="btn btn-primary"
-  hx-get="{% url 'hello_htmx' %}"
-  swap="innerHTML"
-  hx-target="#htmx-test"
->
-  Hello htmx.
-</button>
+<div class="my-4">
+  <button
+    class="btn btn-primary"
+    hx-get="{% url 'hello_htmx' %}"
+    swap="innerHTML"
+    hx-target="#htmx-test"
+  >
+    Hello htmx.
+  </button>
+</div>
 <span id="htmx-test"></span>
+
+<div class="my-4">
+  <button class="btn btn-secondary" x-data @click="alert('Hello, Alpine!')">
+    Hello Alpine.
+  </button>
+</div>
 {% endblock content %}
 <!-- -->
