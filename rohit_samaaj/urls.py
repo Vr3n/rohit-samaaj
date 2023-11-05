@@ -18,11 +18,12 @@ from django.contrib import admin
 from django.conf import settings
 from django.urls import path, include
 from django.conf.urls.static import static
-from .views import home
+from .views import home, hello_htmx
 
 urlpatterns = [
     path("admin/", admin.site.urls),
     path('', home),
+    path('hello-htmx/', hello_htmx, name="hello_htmx"),
     path('accounts/', include('users.urls')),
     path('survey/', include('survey.urls')),
     path('api/survey/', include('survey.api.urls')),
