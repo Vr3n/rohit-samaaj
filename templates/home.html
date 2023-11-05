@@ -2,5 +2,23 @@
 <!-- -->
 {% block content %}
 <h1 class="font-bold text-blue-500 text-4xl">Hello, Friend!</h1>
+<button
+  class="btn btn-primary"
+  hx-get="/hello-htmx/"
+  swap="innerHTML"
+  hx-target="#htmx-text"
+>
+  Hello htmx.
+</button>
+<div class="card w-96 bg-base-100 shadow-xl">
+  <div class="card-body">
+    <h2 class="card-title">Card title!</h2>
+    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <div class="card-actions justify-end">
+      <button class="btn btn-primary">Buy Now</button>
+    </div>
+  </div>
+</div>
+<span id="htmx-test"></span>
 {% endblock content %}
 <!-- -->
