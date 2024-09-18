@@ -1,0 +1,6 @@
+{% var type=type|default="text" %}
+{% var form_id=form_id %}
+<label for=form_id class="block text-sm font-medium text-gray-700">
+  {{ label }}
+</label>
+<input {% attrs type class name id=form_id %} />

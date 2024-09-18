@@ -1,9 +1,10 @@
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import redirect, render
+from django.urls import reverse
 
 
 def home(request):
-    return render(request, 'home.html')
+    return redirect(reverse('survey-home'))
 
 
 def hello_htmx(request):

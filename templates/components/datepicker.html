@@ -1,0 +1,19 @@
+<div
+  x-data
+  x-init="
+    flatpickr($refs.dateInput, {
+      altInput: true,
+      altFormat: 'F j, Y',
+      dateFormat: 'Y-m-d',
+      maxDate: Date.now()
+    })
+  "
+>
+  <input x-ref="dateInput" name={{name}} type="text" placeholder="YYYY-MM-DD" class="
+    w-full py-2 px-3 pe-11 block w-full
+    border-gray-200 shadow-sm text-sm
+    rounded-lg focus:border-blue-500
+    focus:ring-blue-500 disabled:opacity-50
+    disabled:pointer-events-none
+    " />
+</div>

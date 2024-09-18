@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     'django_htmx',
     'django_browser_reload',
+    'crispy_forms',
+    'crispy_tailwind',
     'slippers',
     'allauth',
     'allauth.account',
@@ -156,3 +158,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 # DJANGO- ALL-AUTH setings.
 ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_AUTHENTICATION_METHOD = "email"
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = "tailwind"
+CRISPY_TEMPLATE_PACK = "tailwind"
