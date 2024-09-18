@@ -1,9 +1,10 @@
 from django.contrib import admin
 
 from survey.models import (
-    CountryMaster, DistrictMaster, MobileNumberMaster,
+    CountryMaster, DistrictMaster,
     SamaajMember, SamaajMemberEmail,
-    SamaajMemberMobileNumberMaster, StateMaster,
+    SamaajMemberMobileNumber,
+    StateMaster,
     StateUniversitiesMaster)
 
 # Register your models here.
@@ -12,6 +13,5 @@ admin.site.register(StateMaster)
 admin.site.register(DistrictMaster)
 admin.site.register(StateUniversitiesMaster)
 admin.site.register(SamaajMember)
-admin.site.register(SamaajMemberMobileNumberMaster)
-admin.site.register(MobileNumberMaster)
+admin.site.register(SamaajMemberMobileNumber)
 admin.site.register(SamaajMemberEmail)

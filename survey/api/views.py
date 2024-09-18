@@ -3,8 +3,12 @@ from django.db.models import Q
 from ninja import NinjaAPI
 from django.core.exceptions import ValidationError as DjangoValidationError
 from ninja.errors import HttpError, ValidationError
-from survey.api.schema import DistrictSchema, ErrorResponseSchema, PersonalDetailFormSchema, StateBaseSchema, SuccessResponseSchema
-from survey.models import DistrictMaster, MobileNumberMaster, SamaajMemberEmail, SamaajMemberMobileNumberMaster,  StateMaster, SamaajMember
+from survey.api.schema import (DistrictSchema, ErrorResponseSchema,
+                               PersonalDetailFormSchema, StateBaseSchema,
+                               SuccessResponseSchema)
+from survey.models import (DistrictMaster, SamaajMemberEmail,
+                           SamaajMemberMobileNumber,  StateMaster,
+                           SamaajMember)
 
 api = NinjaAPI()
 
@@ -67,16 +71,12 @@ def personal_details(request, payload: PersonalDetailFormSchema):
         samaaj_member_obj.full_clean()
         samaaj_member_obj.save()
 
-        mobile_no_obj = MobileNumberMaster(
+        mobile_no_obj = SamaajMemberMobileNumber(
+            samaaj_member=samaaj_member_obj,
             mobile_number=payload.mobile_number,
         )
         mobile_no_obj.full_clean()
         mobile_no_obj.save()
-
-        SamaajMemberMobileNumberMaster.objects.create(
-            samaaj_member=samaaj_member_obj,
-            mobile_number=mobile_no_obj,
-        )
 
         if payload.email_id is not None and payload.email_id != '':
             email_obj = SamaajMemberEmail.objects.create(
@@ -85,6 +85,7 @@ def personal_details(request, payload: PersonalDetailFormSchema):
             )
             email_obj.full_clean()
             email_obj.save()
+
     except ValidationError as e:
         raise HttpError(400, e)
     except DjangoValidationError as e:

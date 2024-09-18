@@ -1,0 +1,3 @@
+components:
+  datepicker: "components/datepicker.html"
+  text_input: "components/text-input.html"

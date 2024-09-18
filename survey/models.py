@@ -49,32 +49,37 @@ class SamaajMember(BaseModel):
     father_name = models.CharField(max_length=100, null=True, blank=True)
     mother_name = models.CharField(max_length=100, null=True, blank=True)
 
+    @property
+    def full_name(self) -> str:
+        return f"{self.first_name} {self.father_name or ''} {self.mother_name or ''} {self.last_name}"
+
     def __str__(self) -> str:
         return f"{self.first_name} {self.last_name}"
 
 
-# Model for Samaaj Member Mobile Number
-class MobileNumberMaster(BaseModel):
+class SamaajMemberMobileNumber(BaseModel):
+    samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.PROTECT)
     mobile_number = models.CharField(
         max_length=10,
-        unique=True,
         validators=[
             string_only_contain_digits_validator,
             validate_mobile_number_length,
-        ]
-    )  # Assuming a reasonable max length for mobile numbers
+        ],
+        null=True,
+        blank=True,
+    )
 
-
-class SamaajMemberMobileNumberMaster(BaseModel):
-    samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.PROTECT)
-    mobile_number = models.ForeignKey(
-        MobileNumberMaster, on_delete=models.PROTECT)
+    def __str__(self) -> str:
+        return f"({self.samaaj_member.full_name}) - {self.mobile_number}"
 
 
 # Model for Samaaj Member Email
 class SamaajMemberEmail(BaseModel):
     samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.CASCADE)
-    email_address = models.EmailField(unique=True)
+    email_address = models.EmailField(null=True, blank=True)
+
+    def __str__(self) -> str:
+        return f"({self.samaaj_member.full_name}) - {self.email_address}"
 
 
 # Model for Samaaj Member Skills
@@ -82,6 +87,9 @@ class SamaajMemberSkills(BaseModel):
     samaaj_member = models.ForeignKey(SamaajMember, on_delete=models.CASCADE)
     skill_name = models.CharField(max_length=100)
     year_of_experience = models.PositiveIntegerField()
+
+    def __str__(self) -> str:
+        return f"({self.samaaj_member.full_name}) skill set."
 
 
 # Model for Samaaj Member Educational Qualification
@@ -99,6 +107,9 @@ class SamaajMemberEducationalQualification(BaseModel):
     name = models.CharField(max_length=100)
     qualification_year = models.IntegerField()
 
+    def __str__(self) -> str:
+        return f"({self.samaaj_member.full_name}) Educational Qualification."
+
 
 # Model for Samaaj Member Address
 class SamaajMemberAddress(BaseModel):
@@ -111,6 +122,9 @@ class SamaajMemberAddress(BaseModel):
     taluka = models.CharField(max_length=100)
     city = models.CharField(max_length=100)
     pincode = models.CharField(max_length=6)
+
+    def __str__(self) -> str:
+        return f"({self.samaaj_member.full_name}) Address."
 
 
 # Model for Samaaj Member Mosaad
@@ -138,3 +152,6 @@ class SamaajMemberOccupationalDetails(BaseModel):
                                        choices=OCCUPATION_CHOICES)
     company_name = models.CharField(max_length=200, blank=True, null=True)
     designation = models.CharField(max_length=100, blank=True, null=True)
+
+    def __str__(self) -> str:
+        return f"({self.samaaj_member.full_name}) Occupation Detail."
